@@ -20,7 +20,7 @@
 + Gnu Radio custom block design in C++ or Python
 + Signals modelling in Gnu Octave
 
-I’m working on ...
+✏️ I’m working on ...
 + Gentoo installation scripts for AMD devices
 + Using mcahine learning to create fading model based on satellite imagery
 
