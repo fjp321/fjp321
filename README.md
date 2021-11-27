@@ -23,6 +23,7 @@
 ✏️ I’m working on ...
 + Gentoo installation scripts for AMD devices
 + Using mcahine learning to create fading model based on satellite imagery
++ Take advantage of price discrepancies between cryptocurrency prices on different trading platforms (Model/Theory, not implemented)
 
 📫 How to reach me ...
 Email at potter.finley@gmail.com
