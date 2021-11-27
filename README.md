@@ -13,10 +13,16 @@
 + Electromagnetic waves and Electric Fields
 + FPGA Verilog Programming
 + Continuous Time Signal Processing
-+ GNU Radio (SDR implementation and Custom BLock design)
++ GNU Radio (SDR implementation and Custom Block design)
++ Machine Learning
 
 💞️ I’m looking to collaborate on ...
-+ Anything that Interests me
++ Gnu Radio custom block design in C++ or Python
++ Signals modelling in Gnu Octave
+
+I’m working on ...
++ Gentoo installation scripts for AMD devices
++ Using mcahine learning to create fading model based on satellite imagery
 
 📫 How to reach me ...
 Email at potter.finley@gmail.com
