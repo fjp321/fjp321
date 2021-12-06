@@ -18,7 +18,7 @@
 
 💞️ I’m looking to collaborate on ...
 + Gnu Radio custom block design in C++ or Python
-+ Signals modelling in Gnu Octave
++ Signals modelling using Pyhton
 
 ✏️ I’m working on ...
 + Gentoo installation scripts for AMD devices
