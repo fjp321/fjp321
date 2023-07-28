@@ -3,15 +3,16 @@
 👀 I’m interested in ...
 + Python
 + Bash
-+ C/C++
-+ ~~Windows 10~~ Gentoo Linux
++ DevOps
++ Cybersecurity
++ ~~Windows 10~~ Linux
 
 🌱 I’m currently learning ...
 + Gentoo Linux
-+ FPGA Verilog Programming
++ DevOps
 
 ✏️ I’m working on ...
-+ Doggy and Sassy Script
++ Sassy stage 1+2+3 install script
 
 📫 How to reach me ...
-Email at potter.finley@gmail.com
+Email at potter[dot]finley[at]gmail[dot]com
